@@ -1,6 +1,6 @@
 # 🙋🏻 Caio Telles
 
-**`Desenvolvedor Front-End`**
+**`☕ Desenvolvedor Front-End ☕ `**
 
 Me chamo Caio Telles, tenho 26 anos e moro em São Paulo. Estudei Análise de Dados pela plataforma de ensino DIO, mas me identifiquei com Desenvolvimento Front-end, área que estudo de forma autodidata. A cada nova tecnologia que aprendo e a cada projeto que desenvolvo, tenho mais certeza de que escolhi o caminho certo.
 
